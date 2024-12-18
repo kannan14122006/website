@@ -400,6 +400,6 @@ administration.html
 ![text](<Screenshot (8).png>) 
 ![text](<Screenshot (9).png>) 
 ![text](<Screenshot (10).png>) 
-![text](<Screenshot (11).png>)
+![alt text](image.png)
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
